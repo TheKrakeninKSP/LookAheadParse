@@ -66,14 +66,6 @@ String is accepted by the grammar.
   - `construct_lalr_table()`: Generates action and goto tables.
   - `parse_string()`: Parses input using the generated parsing table.
 
-## Future Improvements
-- Add support for **more complex grammars**.
-- Implement an **interactive UI** for better user experience.
-- Optimize **memory management** for handling larger grammars efficiently.
-
-## License
-This project is open-source under the **MIT License**.
-
 ---
 
 **Contributions are welcome!** Feel free to open an issue or submit a pull request. 🚀
